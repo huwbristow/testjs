@@ -1,6 +1,6 @@
 <script>
   var embed = new Apiary.Embed({
-    subdomain: 'pollsapi',
+    subdomain: 'linkpluspublicapi',
     element: '#embedHere'
   });
 </script>
